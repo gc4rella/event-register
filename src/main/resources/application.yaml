@@ -1,0 +1,13 @@
+server:
+  port: 8081
+logging:
+  level:
+    org.openbaton: debug
+    org.springframework: warn
+#    org.springframework.web: debug
+
+event:
+  register:
+    service:
+      active: true
+      key: n0p1H8ARvX4Si9kr
