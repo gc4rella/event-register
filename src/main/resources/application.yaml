@@ -9,5 +9,5 @@ logging:
 event:
   register:
     service:
-      active: true
+      active: false
       key: n0p1H8ARvX4Si9kr
